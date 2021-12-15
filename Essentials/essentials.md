@@ -1,20 +1,19 @@
-# Essentials
+== Essentials ==
 
-[Exploit-db](https://www.exploit-db.com/)
+[[https://www.exploit-db.com/ Exploit Database]]
 
-[SecurityFocus](http://www.securityfocus.com/) ~/ Vulnerability database  
+[[http://www.securityfocus.com/ BugTraq]] Full disclosure mailing list
 
-[VulnHub](https://www.vulnhub.com/) ~/ Vulnerable by design
+[[https://www.vulnhub.com/ VulnHub]] Vulnerable virtual machines
 
-[Exploit Exercises](https://exploit-exercises.com/)
+[[https://github.com/danielmiessler/SecLists SecLists]] SecLists is the security tester's companion
 
-[SecLists](https://github.com/danielmiessler/SecLists) ~/ Collection of lists used during security assessments.
-> List types include usernames, passwords, URLs, sensitive data grep strings, fuzzing payloads
+[[http://www.securitytube.net/ Security Tube]]
 
-[Security Tube](http://www.securitytube.net/)
+[[https://www.pentesteracademy.com Pentester Academy]] Learn Pentesting for $249/year
 
-[Metasploit Unleashed](https://www.offensive-security.com/metasploit-unleashed) ~/ Free course on how to use Metasploit
+[[https://www.offensive-security.com/metasploit-unleashed METASPLOIT UNLEASHED]] The Metasploit Unleashed (MSFU) course is provided free of charge by Offensive Security
 
-0Day Security Enumeration [Guide](http://www.0daysecurity.com/penetration-testing/enumeration.html)
+[[https://owasp.org/www-project-web-security-testing-guide/latest/3-The_OWASP_Testing_Framework/1-Penetration_Testing_Methodologies OWASP WSTG - Latest]] Penetration Testing Methodologies
 
-Github IO [Book](https://monkeysm8.gitbooks.io/pentesting-methodology/) ~/ Pen Testing Methodology
+[[https://owasp.org/www-project-top-ten/ OWASP Top Ten]] The OWASP Top 10 is a standard awareness document for developers and web application security

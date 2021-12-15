@@ -1,80 +1,139 @@
+== Penetration Tools Cheat Sheet ==
 
-### Penetration Tools Cheat Sheet  
+[[https://highon.coffee/blog/penetration-testing-tools-cheat-sheet]]
 
-https://highon.coffee/blog/penetration-testing-tools-cheat-sheet
+== OSCP Cheatsheets ==
 
-### Pen Testing Bookmarks  
+[[https://github.com/slyth11907/Cheatsheets]]
 
-https://github.com/kurobeats/pentest-bookmarks/blob/master/BookmarksList.md
+== Net bios scan ==
 
-### OSCP Cheatsheets
+[[https://highon.coffee/blog/nbtscan-cheat-sheet]]
 
-https://github.com/slyth11907/Cheatsheets
+== Reverse Shell Cheat Sheet ==
 
-### CEH Cheatsheet  
+[[https://highon.coffee/blog/reverse-shell-cheat-sheet/]]
 
-https://scadahacker.com/library/Documents/Cheat\_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf
+== NMap Cheat Sheet ==
 
-### Net Bios Scan Cheat Sheet  
+[[https://highon.coffee/blog/nmap-cheat-sheet/]]
 
-https://highon.coffee/blog/nbtscan-cheat-sheet
+== Linux Commands Cheat Sheet ==
 
-### Reverse Shell Cheat Sheet  
+[[https://highon.coffee/blog/linux-commands-cheat-sheet/]]
 
-https://highon.coffee/blog/reverse-shell-cheat-sheet/
+== Security Hardening CentO 7 ==
 
-### NMap Cheat Sheet  
+[[https://highon.coffee/blog/security-harden-centos-7/]]
 
-https://highon.coffee/blog/nmap-cheat-sheet/
+== Google Hacking Database ==
 
-### Linux Commands Cheat Sheet  
+[[https://www.exploit-db.com/google-hacking-database/]]
 
-https://highon.coffee/blog/linux-commands-cheat-sheet/
+== Windows Assembly Language Mega Primer ==
 
-### Security Hardening CentO 7  
+[[http://www.securitytube.net/groups?operation=view&groupId=6]]
 
-https://highon.coffee/blog/security-harden-centos-7/
+== Linux Assembly Language Mega Primer ==
 
-### MetaSploit Cheatsheet  
+[[http://www.securitytube.net/groups?operation=view&groupId=5]]
 
-https://www.sans.org/security-resources/sec560/misc\_tools\_sheet\_v1.pdf
+== Sans Tools Cheat Sheet ==
 
-### Google Hacking Database:  
+[[https://www.sans.org/white-papers/406/]]
 
-https://www.exploit-db.com/google-hacking-database/
+== Old but Gold ==
 
-### Windows Assembly Language Mega Primer  
+[[http://hackingandsecurity.blogspot.com/2016/04/oscp-related-notes.html]]
 
-http://www.securitytube.net/groups?operation=view&groupId=6
+== NetCat ==
 
-### Linux Assembly Language Mega Primer  
+[[https://www.sans.org/blog/sans-cheat-sheet-netcat/]]
 
-http://www.securitytube.net/groups?operation=view&groupId=5
+== Nessus ==
 
-### Metasploit Cheat Sheet  
+[[http://www.secguru.com/files/cheatsheet/nessusNMAPcheatSheet.pdf]]
 
-https://www.sans.org/security-resources/sec560/misc\_tools\_sheet\_v1.pdf
+== hping3 ==
 
-### Old but Gold
+[[https://linux.die.net/man/8/hping3]]
 
-http://hackingandsecurity.blogspot.com/2016/04/oscp-related-notes.html
+== Nmap ==
 
-### NetCat
+[[https://nmap.org/book/man.html]]
 
-http://www.sans.org/security-resources/sec560/netcat\_cheat\_sheet\_v1.pdf
+== GTFOBins ==
 
-http://www.secguru.com/files/cheatsheet/nessusNMAPcheatSheet.pdf
+[[https://gtfobins.github.io/]]
 
-http://sbdtools.googlecode.com/files/hping3\_cheatsheet\_v1.0-ENG.pdf
+== ncat ==
 
-http://sbdtools.googlecode.com/files/Nmap5%20cheatsheet%20eng%20v1.pdf
+[[https://www.sans.org/posters/netcat-cheat-sheet/]]
 
-http://www.sans.org/security-resources/sec560/misc\_tools\_sheet\_v1.pdf
+== Payload all the things ==
 
-http://rmccurdy.com/scripts/Metasploit%20meterpreter%20cheat%20sheet%20reference.html
+[[https://github.com/swisskyrepo/PayloadsAllTheThings]]
 
-http://h.ackack.net/cheat-sheets/netcat
+== VBSCRIPT INFECTION METHODS ==
 
-### A list of useful payloads and bypasses for Web Application Security
+[[https://www.offensive-security.com/metasploit-unleashed/vbscript-infection-methods/]]
 
-https://github.com/swisskyrepo/PayloadsAllTheThings
+== FUN WITH INCOGNITO ==
+
+[[https://www.offensive-security.com/metasploit-unleashed/fun-incognito/]]
+
+== Droppers ==
+
+[[https://github.com/topics/dropper]]
+
+== MITRE ATT&CK ==
+
+[[https://attack.mitre.org/matrices/enterprise/windows/]]
+
+== PEzor ==
+
+[[https://github.com/phra/PEzor#installation]]
+
+==Open-Source PE Packer==
+
+[[https://iwantmore.pizza/posts/PEzor.html]]
+
+==x0rro==
+
+[[https://iwantmore.pizza/posts/x0rro.html]]
+
+==Creating Metasploit Payloads==
+
+[[https://netsec.ws/?p=331]]
+
+==OWASP Testing Guide v4==
+
+[[https://wiki.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents]]
+
+==Exploiting masks in Hashcat for fun and profit==
+
+[[https://www.unix-ninja.com/p/Exploiting_masks_in_Hashcat_for_fun_and_profit]]
+
+==Corkami==
+
+[[https://github.com/corkami/pics]]
+
+==Generating shellcode==
+
+[[http://www.ethicalpentest.com/2018/01/generating-shellcode-using-msfvenom.html]]
+
+==Offensive Msfvenom==
+
+[[https://medium.com/@PenTest_duck/offensive-msfvenom-from-generating-shellcode-to-creating-trojans-4be10179bb86]]
+
+==Basics of Windows shellcode writing==
+
+[[https://idafchev.github.io/exploit/2017/09/26/writing_windows_shellcode.html]]
+
+==Why is your Meterpreter session dying?==
+
+[[https://www.infosecmatter.com/why-is-your-meterpreter-session-dying-try-these-fixes/]]
+
+==Interesting JavaScript Obfuscation Example==
+
+[[https://isc.sans.edu/forums/diary/Interesting+JavaScript+Obfuscation+Example/25020/]]

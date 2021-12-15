@@ -1,103 +1,103 @@
-# DFIR
+== DFIR ==
 
-Source ~/ [DFIR Discord Server](https://discord.gg/pNMZunG)
+[[https://discord.gg/pNMZunG DFIR Discord Server]]
 
-[Google Drive](https://drive.google.com/drive/folders/1HfQEFiErAFgESuTN_KHWdRKC9R1io7OG?usp=sharing)
+[[https://drive.google.com/drive/folders/1HfQEFiErAFgESuTN_KHWdRKC9R1io7OG?usp=sharing DFIR Discord Server Google Drive]]
 
-## USEFUL TOOLS
+== USEFUL TOOLS ==
 
-[OSIRT Browser](http://www.osirtbrowser.com/) ~/ Forensic browser for capturing open source intelligence on the internet
+[[http://www.osirtbrowser.com/ OSIRT Browser]] Forensic browser for capturing open source intelligence on the internet
 
-[NW3C Utility Suite](https://www.nw3c.org/member-benefits/law-enforcement-tools)
+[[https://www.nw3c.org/member-benefits/law-enforcement-tools NW3C Utility Suite]]
 
-[Flare VM](https://github.com/fireeye/flare-vm) ~/ for Malware Analysis
+[[https://github.com/fireeye/flare-vm Flare VM]] Virtual machine script for Malware Analysis
 
-[CyberChef](https://gchq.github.io/CyberChef/)
+[[https://gchq.github.io/CyberChef/ CyberChef]]
 
-[HashKiller](https://www.hashkiller.co.uk/hashcat-gui.aspx)
+[[https://www.hashkiller.co.uk/hashcat-gui.aspx HashKiller]]
 
-[Magnet App Simulator](https://www.magnetforensics.com/resources/magnet-app-simulator/)
+[[https://www.magnetforensics.com/resources/magnet-app-simulator/ Magnet App Simulator]]
 
-[Data Extraction Tool](http://www.marshall.edu/cyber/geargadget) For Samsung GearS3 Frontier Smartwatch Wearable Devices ~/ thanks to @Josh Brunty
+[[http://www.marshall.edu/cyber/geargadget Data Extraction Tool]] For Samsung GearS3 Frontier Smartwatch Wearable Devices, thanks to @Josh Brunty
 
-## USEFUL RESOURCES:
+== USEFUL RESOURCES ==
 
-[Digital Forensic Compass](https://www.digitalforensiccompass.com/)
+[[https://www.digitalforensiccompass.com/ Digital Forensic Compass]]
 
-[Packt](https://www.packtpub.com/packt/offers/free-learning) Publishing Free eBook every day!
+[[https://www.packtpub.com/packt/offers/free-learning Packt]] Publishing Free eBook every day!
 
-[Humble Bundle](https://www.humblebundle.com/) (sometimes has programming/cyber security book bundles)
+[[https://www.humblebundle.com/ Humble Bundle]] Book bundles ;)
 
-Forensic Focus Discussion [Forums](https://www.forensicfocus.com/Forums/)
+[[https://www.forensicfocus.com/Forums/ Forensic Focus Discussion]]
 
-[PhoneDB](http://phonedb.net/)
+[[http://phonedb.net/ PhoneDB]]
 
-[Phone Scoop](https://www.phonescoop.com/)
+[[https://www.phonescoop.com/ Phone Scoop]]
 
-[GSM-Forum](http://forum.gsmhosting.com/vbb/) ~/ Good for flasher boxes/device hacking
+[[http://forum.gsmhosting.com/vbb/ GSM-Forum]] ~/ Good for flasher boxes/device hacking
 
-Law Enforcement Technology [Guide](http://www.orhia.com/le-technology-guide) ~/ Mainly beneficial for US LE but still lots of material applicable to any jurisdiction
+[[http://www.orhia.com/le-technology-guide Law Enforcement Technology]] ~/ Mainly for USA LE
 
-[CentralOps](https://centralops.net/co/) ~/ Free online networks tools
+[[https://centralops.net/co/ CentralOps]] Free online networks tools
 
-[LE Tools](https://le-tools.com/index.html) ~/ Various tools for LE investigations
+[[https://le-tools.com/index.html LE Tools]] Tools for LE investigations
 
-Search.org [ISP List](http://www.search.org/resources/isp-list/) ~/ Great for LE contacts at many companies
+[[http://www.search.org/resources/isp-list/ ISP List]] Great for LE contacts at many companies
 
-[NIST's](https://toolcatalog.nist.gov/index.php) ~/ Computer Forensics Tool Catalog
+[[https://toolcatalog.nist.gov/index.php NIST's]] Computer Forensics Tool Catalog
 
-[NW3C's](https://www.nw3c.org/investigative-resources) ~/ Investigative Resources
+[[https://www.nw3c.org/investigative-resources NW3C's]] ~/ Investigative Resources
 
-Gary Kessler's File Signature [Database](https://www.garykessler.net/library/file_sigs.html)
+[[https://www.garykessler.net/library/file_sigs.html Signature Database]] Gary Kessler's File Signature Database
 
-Common Lock [Patterns](http://mytrickytricks.blogspot.com/2013/07/commonlockpattern.html?m=1)
+[[http://mytrickytricks.blogspot.com/2013/07/commonlockpattern.html?m=1 Lock patterns]] Common Lock Patterns
 
-OSINT [Handbook](https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf)
+[[https://www.i-intelligence.eu/wp-content/uploads/2018/06/OSINT_Handbook_June-2018_Final.pdf OSINT Handbook]]
 
-Hashcat [Wiki](https://hashcat.net/wiki/)
+[[https://hashcat.net/wiki/ Hashcat Wiki]]
 
-## FREE DFIR TRAINING:
+== FREE DFIR TRAINING ==
 
-SANS [Webcasts](https://www.sans.org/webcasts/)
+[[https://www.sans.org/webcasts/ SANS Webcasts]]
 
-NW3C Online [Training](https://www.nw3c.org/online-training)
+[[https://www.nw3c.org/online-training NW3C Online Training]]
 
-myTEEX DFIR [Courses](https://my.teex.org/TeexPortal/Default.aspx?MO=mCourseCatalog&G=9dae9d76-18e0-445a-af27-16e1048c8790)
+[[https://my.teex.org/TeexPortal/Default.aspx?MO=mCourseCatalog&G=9dae9d76-18e0-445a-af27-16e1048c8790 myTEEX DFIR Courses]]
 
-SANS DFIR YouTube [Channel](https://www.youtube.com/user/robtlee73/videos)
+[[https://www.youtube.com/user/robtlee73/videos SANS DFIR YouTube]]
 
-Magnet Forensics [Webinars](https://www.magnetforensics.com/webinars/)
+[[https://www.magnetforensics.com/webinars/ Magnet Forensics Webinars]]
 
-SANS Cheat [Sheets](https://digital-forensics.sans.org/community/cheat-sheets)
+[[https://digital-forensics.sans.org/community/cheat-sheets SANS Cheat Sheets]]
 
-[FedVTE](https://fedvte.usalearning.gov/)
+[[https://fedvte.usalearning.gov/ FedVTE]]
 
-X-Ways Training [Videos](http://www.xwaysclips.co.uk/)
+[[http://www.xwaysclips.co.uk/ X-Ways Training Videos]]
 
-MOBISEC PowerPoint [Slides](https://mobisec.reyammer.io/)
+[[https://mobisec.reyammer.io/ MOBISEC]] MOBISEC PowerPoint Slides
 
-## TOOLS FOR DVR/MULTIMEDIA FORENSICS
+== TOOLS FOR DVR/MULTIMEDIA FORENSICS ==
 
-@Amped Software Amped [FIVE](https://ampedsoftware.com/five)
+[[https://ampedsoftware.com/five Amped FIVE]]
 
-@Amped Software Amped [DVRConv](https://ampedsoftware.com/dvrconv)
+[[https://ampedsoftware.com/dvrconv Amped DVRConv]]
 
-@Amped Software [Authenticate](https://ampedsoftware.com/authenticate)
+[[https://ampedsoftware.com/authenticate Amped Software Authenticate]]
 
-@DMEforensics's DVR [Examiner](https://dmeforensics.com/dvr-examiner/)
+[[https://dmeforensics.com/dvr-examiner/ DMEforensics's DVR Examiner]]
 
-@iNPUT-ACE's iNPUT-[ACE](https://input-ace.com/)
+[[https://input-ace.com/ iNPUT-ACE]]
 
-[Ghiro](http://www.getghiro.org/)
+[[http://www.getghiro.org/ Ghiro]]
 
-## DFIR Subreddits
+== DFIR Subreddits ==
 
-[r/smartphoneforensics](https://www.reddit.com/r/Smartphoneforensics/)
+[[https://www.reddit.com/r/Smartphoneforensics/ r/smartphoneforensics]]
 
-[r/computerforensics](https://www.reddit.com/r/computerforensics)
+[[https://www.reddit.com/r/computerforensics r/computerforensics]]
 
-[r/digitalforensics](https://www.reddit.com/r/digitalforensics)
+[[https://www.reddit.com/r/digitalforensics r/digitalforensics]]
 
-[r/memoryforensics](https://www.reddit.com/r/memoryforensics)
+[[https://www.reddit.com/r/memoryforensics r/memoryforensics]]
 
-[r/antiforensic](https://www.reddit.com/r/antiforensics)
+[[https://www.reddit.com/r/antiforensics r/antiforensic]]
